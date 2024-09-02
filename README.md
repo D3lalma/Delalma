@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MimirMorir
+- 👀 I’m interested in ... game dev
+- 🌱 I’m currently learning ... game dev in godot
+- 💞️ I’m looking to collaborate on ... games
+- 📫 How to reach me ... 
